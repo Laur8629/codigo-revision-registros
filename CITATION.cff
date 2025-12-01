@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "Si usas este código, por favor cita este repositorio."
+authors:
+  - family-names: Garcia
+    given-names: Laura
+  - family-names: Leuro
+    given-names: Nerieth
+title: "Código para la validación de registros BioModelos"
+version: "1.0.0"
+date-released: "2025-01-01"
+url: "https://github.com/Laur8629/codigo-revision-registros"
+repository-code: "https://github.com/Laur8629/codigo-revision-registros"
+type: software
+abstract: >
+  Script en R para validar registros de ocurrencia siguiendo los lineamientos de BioModelos. 
+  Incluye verificación de campos obligatorios, formatos, coordenadas, duplicados, 
+  taxonomía y controles básicos de calidad.
+license: "MIT"
+keywords:
+  - biomodelos
+  - validación de datos
+  - biodiversidad
+  - R
+  - registros biológicos
+preferred-citation:
+  type: software
+  authors:
+    - family-names: Garcia
+      given-names: Laura
+    - family-names: Leuro
+      given-names: Nerieth
+  title: "Código para la validación de registros BioModelos"
+  year: 2025
+  version: "1.0.0"
+  url: "https://github.com/Laur8629/codigo-revision-registros"
